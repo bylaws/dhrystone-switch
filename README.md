@@ -7,7 +7,8 @@ HOS: 2108 DMIPS
 
 #### PC emus with i5 4690k @ 3.5GHz:
 Yuzu: 1116 DMIPS  
-Ryujinx: 428 DMIPS  
+Ryujinx: 428 DMIPS  (lowcq)
+Ryujinx: 972 DMIPS  (highcq)
 
 #### Mobile emus with Pixel 3XL:
 Skyline: 4743 DMIPS
